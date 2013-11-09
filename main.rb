@@ -2,7 +2,6 @@
 # encoding: utf-8
 
 require_relative 'helpers/synonyms'
-require_relative 'link_properties'
 require_relative 'link_extractor'
 require 'nokogiri'
 
