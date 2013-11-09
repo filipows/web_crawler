@@ -3,7 +3,6 @@
 
 require 'nokogiri'
 require 'open-uri'
-require 'set'
 
 class Synonyms
   AGENT = 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (HTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36'
@@ -34,7 +33,7 @@ class Synonyms
     word = encode_url(word)
     doc = Nokogiri::HTML(open (SYNONIMY_UX_PL_PATTERN + word)   , "User-Agent" => AGENT)
     word_table = extract_synonyms_from doc
-    word_table.to_set.to_a         # return array of unique words
+    word_table.uniq         # return array of unique words
   end
 
   private
