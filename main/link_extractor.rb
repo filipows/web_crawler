@@ -1,3 +1,12 @@
+#  EXAMPLE:
+#    url = 'http://www.loswiaheros.pl/kalendarz'
+#    doc = Nokogiri::HTML(open (url)   , "User-Agent" => AGENT)
+#    uri = URI url
+#    base_link = "#{uri.scheme}://#{uri.host}"
+
+#    puts LinkExtractor::get_internal_links(doc, base_link)
+#    puts LinkExtractor::get_external_links(doc)
+
 class LinkExtractor
   def self.get_internal_links(doc ,base_link)
     internal_links = {}
