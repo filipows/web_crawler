@@ -15,7 +15,7 @@ class EvaluatorTest < MiniTest::Unit::TestCase
     link = 'http://www.gastronomia-wroclawska.com/kuchnia.php'
 
     expected = 1
-    actual = Evaluator::count_occurences_in_url word_list, link
+    actual = Evaluator::count_occurrences_in_url word_list, link
 
     assert_equal( expected, actual )
   end
@@ -25,7 +25,7 @@ class EvaluatorTest < MiniTest::Unit::TestCase
     link = 'http://www.grastronomia-wroclawska.com/kuchnia.php'
 
     expected = 0
-    actual = Evaluator::count_occurences_in_url word_list, link
+    actual = Evaluator::count_occurrences_in_url word_list, link
 
     assert_equal( expected, actual )
   end
@@ -35,7 +35,7 @@ class EvaluatorTest < MiniTest::Unit::TestCase
     link = 'http://www.tuwroclaw.com/katalog-firm,restauracje,kfi1-2936.html'
 
     expected = 1
-    actual = Evaluator::count_occurences_in_url word_list, link
+    actual = Evaluator::count_occurrences_in_url word_list, link
 
     assert_equal( expected, actual )
   end
@@ -47,7 +47,7 @@ class EvaluatorTest < MiniTest::Unit::TestCase
 
     extended_word_list = Synonyms::get_extended_word_list(word_list)
     expected = 1
-    actual = Evaluator::count_occurences_in_url extended_word_list, link
+    actual = Evaluator::count_occurrences_in_url extended_word_list, link
 
     assert_equal( expected, actual )
   end

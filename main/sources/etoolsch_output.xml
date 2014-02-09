@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE result SYSTEM "http://www.etools.ch/dtd/PartnerSearchTest.dtd">
+<result version="1.0" source="eTools.ch" timestamp="Thu Jan 30 18:17:03 CET 2014">
+    <meta>
+        <request query="wroclaw gastronomia"
+                 country="web"
+                 language="all"
+                 safeSearch="false"
+                 dataSourceResults="10"
+                 maxRecords="45"
+                 timeout="2000 ms">
+            <sources count="12">
+                <source>Bing</source>
+                <source>Blekko</source>
+                <source>Blippex</source>
+                <source>Domengo</source>
+                <source>DuckDuckGo</source>
+                <source>Exalead</source>
+                <source>Faroo</source>
+                <source>Fastbot</source>
+                <source>Google</source>
+                <source>Scholar</source>
+                <source>Wikipedia</source>
+                <source>Yahoo</source>
+            </sources>
+        </request>
+        <response mergedRecords="45" duration="5 ms">
+            <sources count="5">
+                <source records="10" cached="true" url="http://www.bing.com/search?q=wroclaw+gastronomia&amp;count=10&amp;adlt=off">Bing</source>
+                <source records="10" cached="true" url="https://blekko.com/ws/wroclaw+gastronomia">Blekko</source>
+                <source records="10" cached="true" url="https://duckduckgo.com/?q=wroclaw+gastronomia+r%3Anone&amp;kp=-1">DuckDuckGo</source>
+                <source records="10" cached="true" url="https://www.fastbot.de/index.php?query=wroclaw+gastronomia">Fastbot</source>
+                <source records="10" cached="true" url="https://www.google.ch/search?q=wroclaw+gastronomia&amp;lr=&amp;cr=&amp;hl=en&amp;num=10&amp;safe=off">Google</source>
+            </sources>
+        </response>
+    </meta>
+    <records count="45">
+        <record id="1" relevance="10">
+            <title>Pierogi ruskie,pierogi z serem,pierogi z mięsem,pierogi leniwe …</title>
+            <text>54-156 WROCŁAW ul. STARGARDZKA, 9a tel.(71) 358-44-12, tel./fax. (71) 358-44-13. LICZNIK ODWIEDZIN Licznik odwiedzin.</text>
+            <url>http://www.gastronomia.wroclaw.pl/</url>
+            <sources count="4">
+                <source>Bing</source>
+                <source>DuckDuckGo</source>
+                <source>Fastbot</source>
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="2" relevance="5">
+            <title>Restauracje Wrocław - Gastronauci.pl</title>
+            <text>20+ items - Restauracje w mieście: Wrocław. Sprawdź najlepsze …ul. Kuźnicza 3-5, 50-138 Wrocław, dolnośląskie …</text>
+            <url>http://www.gastronauci.pl/pl/restauracje/wroclaw</url>
+            <sources count="2">
+                <source>Fastbot</source>
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="3" relevance="5">
+            <title>Wrocław &gt; Gastronomia I Rozrywka &gt; Restauracje - Katalog Firm we …</title>
+            <text>140+ items - Katalog firm, Gastronomia I Rozrywka &gt; Restauracje &gt; lista firm, …Adres: Szajnochy 11, Wrocław ,. tel. 71 342 30 62,. www: http://www …</text>
+            <url>http://www.tuwroclaw.com/katalog-firm,restauracje,kfi1-2936.html</url>
+            <sources count="2">
+                <source>Fastbot</source>
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="4" relevance="4">
+            <title>Canappka :: Kanapki - Śniadania - Catering…</title>
+            <text>Masz ochotę na coś pysznego? Spróbuj naszych kanapek i sałatek! Canappka jest idealna na śniadanie, lunch czy drobną przekąskę. Oferujemy również catering.</text>
+            <url>http://canappka.pl/</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="5" relevance="3">
+            <title>Wrocław NaszeMiasto.pl</title>
+            <text>Wrocław w sieci Naszemiasto.pl - wydarzenia, katalog firm, przewodnik po lokalach, kino, noclegi, imprezy i atrakcje turystyczneWrocław …</text>
+            <url>http://wroclaw.naszemiasto.pl/</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="6" relevance="3">
+            <title>Gastronomia Wrocław - Mapa Polski - Zumi.pl</title>
+            <text>Zobacz ciekawe miejsca powiązane z Gastronomia Wrocław. Wyznacz trasę do tych miejsc dzięki nowej mapie Polski od Zumi.</text>
+            <url>http://www.zumi.pl/gastronomia+Wroc%C5%82aw,namapie.html</url>
+            <sources count="1">
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="7" relevance="3">
+            <title>Serwis AGD Wrocław</title>
+            <text>Serwis Klimatyzacji Wrocław. Zadzwoń teraz! Telefony stacjonarne: 71 325 05 26. Telefony komórkowe: 601 733 722 …</text>
+            <url>http://mdserwisagd.pl/</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="8" relevance="3">
+            <title>Praca, oferty pracy: Gastronomia - Wrocław, dolnośląskie | Indeed.com</title>
+            <text>Praca Gastronomia - Wrocław, dolnośląskie - aktualne oferty pracy na pl.indeed.com. jeden klik. wszystkie oferty pracy.</text>
+            <url>http://pl.indeed.com/Praca-Gastronomia-w-Wroc%C5%82aw,-dolno%C5%9Bl%C4%85skie</url>
+            <sources count="1">
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="9" relevance="2">
+            <title>Qubus Hotel Wrocław - Breslau,…</title>
+            <text>Das Qubus Hotel Wrocław liegt im engen Stadtzentrum, in direkter Nachbarschaft eines der schönsten historischen Marktes in Europa.</text>
+            <url>http://www.qubushotel.com/de/hotels/wroclaw/4/</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="10" relevance="2">
+            <title>Guadalajara, Jalisco - Wikipedia</title>
+            <text>Guadalajara ( / ˌ ɡ w ɑː d əl ə ˈ h ɑr ə. ( listen ) ) is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the western-pacific area of Mexico.</text>
+            <url>http://wikipedia.org/wiki/Guadalajara,_Jalisco</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="11" relevance="2">
+            <title>Sightseeing with Google Satellite Maps - Wikipedia, the free encyclopedia - Guadalajara</title>
+            <text>This article is about the city in Mexico. For other uses, see Guadalajara (disambiguation). Ciudad de Guadalajara City of Guadalajara. Flag Coat of arms. Nickname(s): Spanish: La Perla de Occidente (English: The Pearl of the West), Spanish: La …</text>
+            <url>http://www.satellite-sightseer.com/r/en.wikipedia.org/wiki/Guadalajara%2C_Jalisco</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="12" relevance="2">
+            <title>Wrocław: informacje, plan miasta, mapa,…</title>
+            <text>MM Moje Miasto Wrocław - portal społecznościowy. Tym żyje moje miasto Wrocław.</text>
+            <url>http://www.mmwroclaw.pl/</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="13" relevance="2">
+            <title>Praca w gastronomi Wrocław - Hotelarstwo i gastronomia we …</title>
+            <text>Znajdź oferty pracy w kategorii gastronomia i hotelarstwo Wrocław w największej multiwyszukiwarce ogłoszeń w Polsce - Oferty pracy na stanowiskach …</text>
+            <url>http://www.nuzle.pl/gastronomia-i-hotelarstwo,wroclaw</url>
+            <sources count="1">
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="14" relevance="2">
+            <title>www.gastronomia.wroclaw.pl - gastronomia - website value</title>
+            <text>gastronomia.wroclaw.pl statistics and information. The perfect place to evaluate your site, website analyze, worth value for www.gastronomia.wroclaw.pl …</text>
+            <url>http://www.websitelooker.net/www/gastronomia.wroclaw.pl</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="15" relevance="2">
+            <title>TripAdvisor - Hotel Bristol Warsaw 5* (Poland) - Hotel Reviews - TripAdvisor</title>
+            <text>Been to Hotel Bristol Warsaw. Share your experiences. Hotel Bristol Warsaw Reviews. Hotel Bristol Warsaw. We noticed that you&apos;re using an unsupported browser.</text>
+            <url>http://www.tripadvisor.co.uk/Hotel_Review-g274856-d275056-Reviews-Le_Meridien_Bristol_Warsaw-Warsaw_Mazovia_Province_Central_Poland.html</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="16" relevance="2">
+            <title>Sałatki meksykańskie,szatańskie,sałatki cymes,jarskie,greckie</title>
+            <text>Wszystkie wyroby produkowane są z naturalnych zdrowych surowców polskich. Nasz klient zawsze może liczyć na dobry i świeży produkt nie zawierający konserwantów, dlatego też oferta skierowana jest do szerokiego grona konsumentów ze szczególnym …</text>
+            <url>http://www.gastronomia.wroclaw.pl/oferta.html</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="17" relevance="2">
+            <title>Guadalajara, Jalisco - Wikipedia</title>
+            <text>Guadalajara ( / ˌ ɡ w ɑː d əl ə ˈ h ɑr ə. Is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the western-pacific area of Mexico. With a population …</text>
+            <url>http://www.en.wikipedia.org/wiki/Guadalajara,_Jalisco</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="18" relevance="2">
+            <title>Restauracja &quot;Maria Magdalena&quot; w Qubus Hotel…</title>
+            <text>W restauracji Maria Magdalena Goście mogą delektować się wieloma daniami kuchni polskiej i europejskiej.</text>
+            <url>http://www.qubushotel.com/pl/restauracje/wroclaw/4/</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="19" relevance="2">
+            <title>Gastronomia - Naszemiasto.pl: Wrocław -- Katalog Firm -- Wrocław …</title>
+            <text>Restauracja BALKON. Wrocław, Opolska 54, tel. 71 347 22 03, tel. kom. 601-977-783, fax. (71) 347-22-00. Grzegorz Wiatrowski - wiceprezes Dolnośląskiego …</text>
+            <url>http://wroclaw.naszemiasto.pl/firmy/gastronomia,Wroc%C5%82aw.html</url>
+            <sources count="1">
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="20" relevance="2">
+            <title>praca-wroclaw.org</title>
+            <text>Ogłoszenia praca - praca-wroclaw.org darmowy serwis praca praca-wroclaw.org - dodaj swoje oferty pracy bez rejestracji i logowania.</text>
+            <url>http://praca-wroclaw.org/</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="21" relevance="1">
+            <title>Guadalajara, Jalisco - Wikipedia</title>
+            <text>Guadalajara ( / ˌ ɡ w ɑː d əl ə ˈ h ɑr ə. Spanish ɡwaðalaˈxaɾa ( help. Info ) ) is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the …</text>
+            <url>http://en.wikipedia.org/wiki/Guadalajara,_Jalisco</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="22" relevance="1">
+            <title>Wrocław - Gastronomia - Grupa Marketingowa TAI …</title>
+            <text>Założono X wiek Prawa miejskie 1262 r. Prezydent miasta - Rafał Dutkiewicz Powierzchnia 293,90 km2 Położenie Geograficzne: 51° 07&apos; N 17° 02&apos; E …</text>
+            <url>http://www.9477.pl/gastronomia_wroclaw/index.php</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="23" relevance="1">
+            <title>Guadalajara - Wikipedia</title>
+            <text>Guadalajara ( Spanish pronunciation: ) is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the western-pacific area of Mexico. With a population of …</text>
+            <url>http://en.wikipedia.org/wiki/Guadalajara</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="24" relevance="1">
+            <title>Restauracje Wrocław - 232 restauracji</title>
+            <text>Wrocław Stare Miasto, Rynek-Ratusz 1 … Wrocław Stare Miasto, Plac Solny 18/ 19 …. Re: Dla zgryziałych ekspertów od zarzadzania gastronomią polecam …</text>
+            <url>http://www.restauracjewroclaw.com/</url>
+            <sources count="1">
+                <source>Fastbot</source>
+            </sources>
+        </record>
+        <record id="25" relevance="1">
+            <title>WYTWÓRNIA WYROBÓW GASTRONOMICZNYCH…</title>
+            <text>Zakład istnieje od dziesięciu lat. Nasze produkty produkowane są z najwyższej jakości surowców bez konserwantów, polepszaczy smaku i zapachu oraz innych …</text>
+            <url>http://www.gastronomia.wroclaw.pl/kontakt.html</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="26" relevance="1">
+            <title>gastronomia Wrocław - Praca, szukam pracy, oferty pracy</title>
+            <text>Praca Gastronomia Wrocław. Wszystkie oferty pracy dla miasta Wrocław na stanowisku Gastronomia na jednej stronie Jooble. Łatwe poszukiwanie pracy …</text>
+            <url>http://jooble.com.pl/search-vacancy-pl/rgn-Wroc%C5%82aw/kw-gastronomia</url>
+            <sources count="1">
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="27" relevance="1">
+            <title>Catering i restauracje Wrocław - Gastronomia</title>
+            <text>Gastronomia Wrocław - Ekskluzywne restauracje włoskie i chińskie oraz pizzerie, kawiarnie, puby cukiernie i lodziarnie świadczące catering i usługi gastronomiczne.</text>
+            <url>http://www.firmy.net/gastronomia,wroclaw.html</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="28" relevance="1">
+            <title>Guadalajara, Jal. - Wikipedia</title>
+            <text>Guadalajara ( Spanish pronunciation: ) is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the western-pacific area of Mexico. With a population of …</text>
+            <url>http://en.wikipedia.org/wiki/Guadalajara,_Jal.</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="29" relevance="1">
+            <title>Gastronomia - Restauracje w Wroclaw - Radisson Blu Hotel, Wroclaw</title>
+            <text>Rozkoszuj się znakomitymi daniami w naszej restauracji w Wroclaw. Restauracja hotelu Radisson Blu Hotel, Wroclaw oferuje odwiedzającym jedną z najlepszych kuchni w Wroclaw …</text>
+            <url>http://www.radissonblu.pl/hotel-wroclaw/gastronomia</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="30" relevance="1">
+            <title>Gastronomia Wrocław - Mapa Polski - Zumi.pl</title>
+            <text>Zobacz ciekawe miejsca powiązane z Gastronomia Wrocław. Wyznacz trasę do tych miejsc dzięki nowej mapie Polski od Zumi.</text>
+            <url>WrocÅaw,namapie.html</url>
+            <sources count="1">
+                <source>Fastbot</source>
+            </sources>
+        </record>
+        <record id="31" relevance="1">
+            <title>Guadalajara, Mexico - Wikipedia</title>
+            <text>Guadalajara ( / ˌ ɡ w ɑː d əl ə ˈ h ɑr ə. Spanish ɡwaðalaˈxaɾa ( help. Info ) ) is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the …</text>
+            <url>https://en.wikipedia.org/wiki/Guadalajara,_Mexico</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="32" relevance="1">
+            <title>Oferty pracy - Gastronomia - Katering - Wrocław | careerjet.pl www.careerj…</title>
+            <text>Wyszukiwarka zatrudnienia Careerjet. Znajdź najnowsze oferty pracy - Gastronomia - Katering - Wrocław.</text>
+            <url>http://www.careerjet.pl/oferty-pracy-gastronomia-katering/wroclaw-224874.html</url>
+            <sources count="1">
+                <source>Fastbot</source>
+            </sources>
+        </record>
+        <record id="33" relevance="1">
+            <title>Plan miasta Wrocław, mapa Wrocławia</title>
+            <text>Plan miasta Wrocław. Mapa Wrocławia. Zobacz profesjonalny plan miasta Wrocław …</text>
+            <url>http://wroclaw.naszestrony.pl/?info=mapa</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="34" relevance="1">
+            <title>Katarzyna Dżyga Mała Gastronomia - Wrocław - Yelp</title>
+            <text>Katarzyna Dżyga Mała Gastronomia Wrocław reviews by real people. Yelp is a fun and easy way to find, recommend and talk about what&apos;s great and not so …</text>
+            <url>http://www.yelp.com/biz/katarzyna-d%C5%BCyga-ma%C5%82a-gastronomia-wroc%C5%82aw</url>
+            <sources count="1">
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="35" relevance="1">
+            <title>ADMI Sp. z o.o. Gastronomia - Delikatesy Dwór Polski …</title>
+            <text>ADMI Sp. z o.o. Gastronomia - Delikatesy Dwór Polski; Kiełbaśnicza 2; Wrocław; dolnośląskie; 52.27 Other retail sale of food, beverages and tobacco in specialized stores; 541199 Grocery Stores, NEC; .english …</text>
+            <url>http://www.teleadreson.pl/en/dolnoslaskie/wroclaw/admi-sp-z-oo-gastronomia-delikatesy-dwor-polski-6d076bcc5b.html</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="36" relevance="1">
+            <title>Gastronomia - Naszemiasto.pl: Wrocław -- Katalog Firm -- …</title>
+            <text>Restauracja BALKON. Wrocław, Opolska 54, tel. 71 347 22 03, tel. kom. 601-977- 783, fax. (71) 347-22-00. Grzegorz Wiatrowski - wiceprezes Dolnośląskiego …</text>
+            <url>http://wroclaw.naszemiasto.pl/firmy/gastronomia,WrocÅaw.html</url>
+            <sources count="1">
+                <source>Fastbot</source>
+            </sources>
+        </record>
+        <record id="37" relevance="1">
+            <title>Guadalajara, JA - Wikipedia</title>
+            <text>Guadalajara ( / ˌ ɡ w ɑː d əl ə ˈ h ɑr ə. Spanish ɡwaðalaˈxaɾa ( help. Info ) ) is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the …</text>
+            <url>http://en.wikipedia.org/wiki/Guadalajara,_JA</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="38" relevance="1">
+            <title>Praca, oferty pracy: Gastronomia - Wrocław, dolnośląskie | …</title>
+            <text>Praca Gastronomia - Wrocław, dolnośląskie - aktualne oferty pracy na pl.indeed. com. jeden klik. wszystkie oferty pracy.</text>
+            <url>http://pl.indeed.com/Praca-Gastronomia-w-WrocÅaw,-dolnoÅlÄskie</url>
+            <sources count="1">
+                <source>Fastbot</source>
+            </sources>
+        </record>
+        <record id="39" relevance="1">
+            <title>Gastronomia wrocław Wrocław</title>
+            <text>Wyniki szukania dla Gastronomia wrocław w Wrocław; Opinie klientów, Ceny, Dane kontaktowe, Godziny otwarcia firmy z Wrocław ze słowem kluczowym Gastronomia wrocław.</text>
+            <url>http://wroclaw.cylex.pl/gastronomia+wroc%c5%82aw.html</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+        <record id="40" relevance="1">
+            <title>Praca gastronomia wrocław | Praca.Money.pl</title>
+            <text>Aktualne oferty pracy dla gastronomia wrocław w Praca.Money.pl.</text>
+            <url>http://praca.money.pl/indeks/gastronomia-wroclaw-254709/</url>
+            <sources count="1">
+                <source>Fastbot</source>
+            </sources>
+        </record>
+        <record id="41" relevance="1">
+            <title>Guadalajara (Jalisco) - Wikipedia</title>
+            <text>Guadalajara ( Spanish pronunciation: ) is the capital of the Mexican state of Jalisco, and the seat of the municipality of Guadalajara. The city is located in the central region of Jalisco in the western-pacific area of Mexico. With a population of …</text>
+            <url>https://en.wikipedia.org/wiki/Guadalajara_(Jalisco)</url>
+            <sources count="1">
+                <source>Blekko</source>
+            </sources>
+        </record>
+        <record id="42" relevance="1">
+            <title>gastronomia Wrocław - Praca, szukam pracy, oferty pracy</title>
+            <text>Praca Gastronomia Wrocław. Wszystkie oferty pracy dla miasta Wrocław na stanowisku Gastronomia na jednej stronie Jooble. Łatwe poszukiwanie pracy …</text>
+            <url>http://jooble.com.pl/search-vacancy-pl/rgn-WrocÅaw/kw-gastronomia</url>
+            <sources count="1">
+                <source>Fastbot</source>
+            </sources>
+        </record>
+        <record id="43" relevance="1">
+            <title>CATERING Wrocław, organizacja imprez,…</title>
+            <text>catering, catering Wrocław, organizacja imprez, imprezy firmowe, imprezy integracyjne, eventy, bankiety - AL Catering: oferujemy profesjonalną obsługę i …</text>
+            <url>http://www.al-catering.pl/</url>
+            <sources count="1">
+                <source>Bing</source>
+            </sources>
+        </record>
+        <record id="44" relevance="1">
+            <title>bar, restauracja i gastronomia - Gumtree</title>
+            <text>Znajdź ogłoszenia dla bar, restauracja i gastronomia. … Poszukujemy pracowników restauracji KFC PKP WROCŁAW Nasze oczekiwania: · pogodne …</text>
+            <url>http://www.gumtree.pl/fp-bar-restauracja-i-gastronomia/wroclaw/praca/c9056l3200114</url>
+            <sources count="1">
+                <source>Google</source>
+            </sources>
+        </record>
+        <record id="45" relevance="1">
+            <title>Gastronomia, Wrocław - dolny-slask.org.pl</title>
+            <text>Płn.-zach. narożnik głównej hali terminalu, z kawiarnią &quot;Coffeeheaven&quot;. Wejście do typowo polsko brzmiącej restauracji &quot; Sami Swoi&quot;.</text>
+            <url>http://dolny-slask.org.pl/562955,Wroclaw,Gastronomia.html</url>
+            <sources count="1">
+                <source>DuckDuckGo</source>
+            </sources>
+        </record>
+    </records>
+</result>

@@ -29,8 +29,16 @@ class LinkExtractor
     external_links
   end
 
+
+  def self.get_all_links()
+  end
+
+
+
   private
   def self.internal? (url)
     url =~ /^\//
   end
 end
+
+
